@@ -1,0 +1,11 @@
+# Type,Make,Model,Year,Mileage,Extra1,Extra2
+# Car: Extra1=Doors, Extra2=Automatic
+# Truck: Extra1=LoadCapacity, Extra2=Axles
+
+Car,Toyota,Camry,2020,50000,4,1
+Car,Honda,Civic,2018,72000,4,0
+Car,Ford,Mustang,2021,30000,2,1
+
+Truck,Ford,F150,2017,90000,2.5,2
+Truck,Chevrolet,Silverado,2019,60000,3.0,2
+Truck,Ram,1500,2016,110000,2.8,2
